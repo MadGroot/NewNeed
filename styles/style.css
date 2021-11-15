@@ -2,3 +2,26 @@ p{
     font-size: 18px;
     color: aqua;
 }
+#header p {
+    font-size: 24px;
+}
+#mtavars{
+    color: red;
+}
+h1{
+    font-size: 44px;
+}
+/* a{
+    text-decoration: underline;
+
+} */
+div{
+    width: 100%;
+    background-color:whitesmoke;
+}
+.test1{
+    color: greenyellow;
+}
+strong{
+    color: pink;
+}
