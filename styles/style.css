@@ -25,3 +25,23 @@ div{
 strong{
     color: pink;
 }
+.pipi{
+    color: red !important;
+}
+#main-content > p{
+    color: blue;
+}
+.dudu{
+    color:darkred;
+    font-size: 18px;
+    font-weight: bold;
+}
+span[class]{
+    color: purple;
+}
+a[title="google"]{
+    color: orange;
+}
+a[href$="pdf"]{
+    color: red;
+}
