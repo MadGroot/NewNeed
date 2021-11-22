@@ -38,7 +38,7 @@ div.featured-content{
 
 
 article{
-    font-size: 16px;
+ font-size: 16px;
 }
 article h2{
  font-size: 2em;   
@@ -51,3 +51,35 @@ article h2, article p{
 a{
     text-decoration: none;
 }
+
+#header{
+    text-transform: uppercase;
+    
+    color: chocolate;
+}
+body h1{
+    color: chocolate;
+}
+#header a{
+    color: crimson;
+    text-transform: none;
+    font-weight: bold;
+}
+#header a:hover{
+    color: red;
+    text-decoration: underline;
+    background-color: aqua;
+}
+#header a:hover:last-of-type{
+    background-color: brown;
+} 
+/* .letter p{
+    font-size: 12px;
+    line-height: 24px;
+    word-spacing: 1em;
+} */
+ .letter p{
+     font-size: 14px;
+     line-height: 2em;
+     margin-bottom: 32px;
+ }
